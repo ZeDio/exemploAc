@@ -1,0 +1,2 @@
+iniciando o projeto.. npm i -y
+npm i mongosse body-parser cors express
